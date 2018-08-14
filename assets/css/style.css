@@ -1,0 +1,106 @@
+
+ body{
+        margin: auto;
+        padding:auto;
+        background-image:url("../images/dust_scratches.png");
+        /* border:solid black; */
+        
+   }
+   
+    
+    header{
+        border-bottom: solid #cccccc;
+        margin: 0;
+        padding:1px;
+        background:white;       
+    }
+
+    h1{
+        
+        background:#4aaaa5;
+        width:25%;
+        margin-bottom:0;
+        /* position: relative; */
+        /* bottom:15; */
+        margin:0;
+        float:left;
+        margin-right:480px;
+        margin-left:157px;
+        padding-top:10px;
+        padding-bottom:13px;
+        padding-left:5px;
+        padding-right:5px;
+        font-size:24px;
+        text-align:center;
+        font-family:" Georgia, 'Times New Roman', Times, serif";
+        color:#ffffff
+        
+    }
+
+        h2{
+            margin-left:20px;
+            text-align:left;
+            color:#4aaaa5;
+            
+        }
+    
+
+     footer{
+        clear:both; 
+        background:#666666;
+        padding-bottom:20px;
+        color: white;
+        text-align:center;
+        margin:0;
+        position:fixed;
+        bottom:0;
+        width:100%;
+        border-bottom:solid black;
+        border-top:solid #4aaaa5 5px;
+        padding-bottom:1px;
+        padding-top:15px;
+    }
+
+   nav{
+       
+   }
+   
+
+   img{
+       float:left;
+       margin-right:10px;
+       margin-left:20px;
+       width:150px;
+       height:150px
+       
+   }
+
+   li{
+       list-style: none;
+       display:inline-block;
+       
+
+   }
+
+  a{
+      color:lightslategray
+  }
+
+  section{
+      background:white;
+      text-align:center;
+      width:960px;
+      margin:auto;
+      margin-top:2%;
+      margin-bottom:4.5%;
+      
+  }
+
+  p{
+      font-size:18px;
+      color:lightslategray
+  }
+
+  
+ 
+
