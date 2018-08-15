@@ -1,0 +1,119 @@
+body{
+        margin: auto;
+        padding:auto;
+        background-image:url("../images/dust_scratches.png");
+        
+    }
+
+header{
+    background:white;
+    border-bottom:solid #cccccc;
+    overflow:auto;
+
+    
+}
+
+h1{
+    background:#4aaaa5;
+    margin:0;
+    width:25%;
+    float:left;
+    padding-bottom:13px;
+    margin-left:157px;
+    padding-top:9px;
+    padding-left:5px;
+    padding-right:5px;
+    text-align:center;
+    font-size:24px;
+    text-align:center;
+    font-family:" Georgia, 'Times New Roman', Times, serif";
+    color:#ffffff;
+    
+}
+
+nav{
+    float:right;
+    margin-right:133px
+
+}
+
+h2{
+    padding-top:19px;
+    margin-left:20px;
+    text-align:left;
+    color:#4aaaa5;
+}
+
+li{
+    list-style: none;
+    display:inline-block;
+    margin-right:20px
+}
+
+.navlinks{
+    text-decoration: none
+}
+
+section{
+    width:630px;
+    margin:auto;
+    background:white;
+    height:410px
+}
+
+footer{
+    clear:both; 
+        background:#666666;
+        padding-bottom:20px;
+        color: white;
+        text-align:center;
+        margin:0;
+        position:fixed;
+        bottom:0;
+        width:100%;
+        border-bottom:solid black;
+        border-top:solid #4aaaa5 5px;
+        padding-bottom:1px;
+        padding-top:15px;
+}
+
+.section1{
+    margin-left:20px;
+   
+    
+}
+
+hr{
+    width:94%
+}
+
+label{
+    padding-bottom:10px
+}
+
+#message{
+    height:160px;
+    margin-bottom:10px
+    }
+
+#name{
+    margin-bottom:10px
+}
+
+#Email{
+    margin-bottom:10px
+}
+
+button{
+color:white;
+background:#4aaaa5;
+border-style:none;
+padding-left:15px;
+padding-right:15px;
+padding-top:5px;
+padding-bottom:5px;
+}
+
+a{
+color: lightslategray
+}

@@ -3,7 +3,6 @@
         margin: auto;
         padding:auto;
         background-image:url("../images/dust_scratches.png");
-        /* border:solid black; */
         
    }
    
@@ -11,8 +10,8 @@
     header{
         border-bottom: solid #cccccc;
         margin: 0;
-        padding:1px;
-        background:white;       
+        background:white; 
+        overflow:auto      
     }
 
     h1{
@@ -20,11 +19,9 @@
         background:#4aaaa5;
         width:25%;
         margin-bottom:0;
-        /* position: relative; */
-        /* bottom:15; */
         margin:0;
         float:left;
-        margin-right:480px;
+        margin-right:0;
         margin-left:157px;
         padding-top:10px;
         padding-bottom:13px;
@@ -41,7 +38,7 @@
             margin-left:20px;
             text-align:left;
             color:#4aaaa5;
-            
+            padding-top:19px
         }
     
 
@@ -62,7 +59,8 @@
     }
 
    nav{
-       
+      float:right;
+      margin-right:133px
    }
    
 
@@ -78,9 +76,8 @@
    li{
        list-style: none;
        display:inline-block;
-       
-
-   }
+       margin-right:20px
+        }
 
   a{
       color:lightslategray
@@ -101,6 +98,12 @@
       color:lightslategray
   }
 
-  
+  .navlinks {
+      text-decoration: none;
+  }
  
+  hr{
+      border-top:solid lightgrey;
+      width:94%
+  }
 
