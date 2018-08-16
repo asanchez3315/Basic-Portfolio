@@ -1,0 +1,159 @@
+body{
+    margin: auto;
+    padding:auto;
+    background-image:url("../images/dust_scratches.png");
+    font-family:" Georgia, 'Times New Roman', Times, serif";    
+}
+
+
+header{
+    border-bottom: solid #cccccc;
+    margin: 0;
+    background:white; 
+    overflow:auto;  
+    margin-bottom:20px   
+}
+
+h1{
+    
+    background:#4aaaa5;
+    width:16%;
+    margin-bottom:0;
+    margin:0;
+    float:left;
+    margin-right:0;
+    margin-left:317px;
+    padding-top:10px;
+    padding-bottom:13px;
+    padding-left:5px;
+    padding-right:5px;
+    font-size:24px;
+    text-align:center;
+    font-family:" Georgia, 'Times New Roman', Times, serif";
+    color:#ffffff
+    
+}
+
+    h2{
+        margin-left:20px;
+        text-align:left;
+        color:#4aaaa5;
+        padding-top:19px
+    }
+
+
+ footer{
+    clear:both; 
+    background:#666666;
+    padding-bottom:20px;
+    color: white;
+    text-align:center;
+    margin:0;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    border-bottom:solid black;
+    border-top:solid #4aaaa5 5px;
+    padding-bottom:1px;
+    padding-top:15px;
+}
+
+nav{
+  float:right;
+  margin-right:295px
+}
+
+
+img{
+   
+   margin-right:10px;
+   margin-left:21px;
+   width:200px;
+   height:150px   
+}
+
+li{
+   list-style: none;
+   display:inline-block;
+   margin-right:20px
+    }
+
+a{
+  color:lightslategray
+}
+
+section{
+    width:630px;
+    margin:auto;
+    background:white;
+    height:620px;
+    margin-bottom:20px
+    }
+
+p{
+  font-size:18px;
+  color:lightslategray
+}
+
+.navlinks {
+  text-decoration: none;
+}
+
+hr{
+  border-top:solid lightgrey;
+  width:91%;
+  margin-bottom:20px
+}
+
+
+.img{
+    float:left;
+    position:relative;
+    width:200px;
+    height:200px;
+    margin-right:20px;
+    margin-bottom: -10px
+}
+
+.hangman{
+    position:absolute;
+    color:#ffffff;
+    background-color:#4aaaa5;
+    margin-left:37px;
+    left: -1em;
+    padding-left:68px;
+    width:66%;
+    top:6em;
+    padding-top: 14px;
+    padding-bottom:14px;
+    }
+
+   .rps, .rutgers{
+        position:absolute;
+        color:#ffffff;
+        background-color:#4aaaa5;
+        margin-left:37px;
+        left: -1em;
+        padding-left:36px;
+        width:82%;
+        top:6em;
+        padding-top: 14px;
+        padding-bottom:14px;
+        }
+
+  .rpg,  .trivia{
+        position:absolute;
+        color:#ffffff;
+        background-color:#4aaaa5;
+        margin-left:37px;
+        left: -1em;
+        padding-left:62px;
+        width:69%;
+        top:6em;
+        padding-top: 14px;
+        padding-bottom:14px;
+        }
+    
+
+
+   
